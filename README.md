@@ -14,7 +14,7 @@ I'm a junior front-end developer with a passion for building clean and user-frie
 
 #### 📫 How to reach me...
 
-Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/erocode97/) or [İnstagram](hhttps://www.instagram.com/erocode97/). I'm always interested in meeting new people in the industry and learning from their experiences.
+Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/erocode97/) or [Instagram](hhttps://www.instagram.com/erocode97/). I'm always interested in meeting new people in the industry and learning from their experiences.
 
 #### ⚡ Fun fact...
 
