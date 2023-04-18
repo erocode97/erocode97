@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm a junior front-end developer with a passion for building clean and user-friendly interfaces. I love working with HTML, CSS, and JavaScript to create responsive and interactive websites. 
+I'm a  front-end developer with a passion for building clean and user-friendly interfaces. I love working with HTML, CSS, and JavaScript to create responsive and interactive websites. 
 
 #### 🔭 I’m currently working on Udemig Company.
 
