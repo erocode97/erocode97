@@ -4,7 +4,7 @@ I'm a  front-end developer with a passion for building clean and user-friendly i
 
 #### 🔭 I’m currently working on Udemig Company.
 
-- Improving my skills in HTML5,CSS3,SCSS,React and ReactJs.
+- Improving my skills in HTML5,CSS3,SCSS, ReactJs.
 - Building a portfolio website to showcase my work.
 
 #### 🌱 I’m currently learning...
