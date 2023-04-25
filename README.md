@@ -10,7 +10,7 @@ I'm a  front-end developer with a passion for building clean and user-friendly i
 #### 🌱 I’m currently learning...
 
 - React.js
-- SCSS
+
 
 #### 📫 How to reach me...
 
